@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+	background: url(../style/images/a2.jpg) no-repeat;	
+}
+td { 
+	font-size: 9pt;
+}
+a { 
+	color: #000000; 
+	text-decoration: none;
+}
+a:hover { 
+	color:#E78a29; 
+	text-decoration: none;
+}
+
